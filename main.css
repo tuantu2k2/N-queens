@@ -14,3 +14,12 @@
 /* .piece-417db{
   
 } */
+#clear,#start,#speed-select{
+  font-size: 20px;
+  width: 70px;
+  height: 70px;
+}
+/* #start{
+  width: 50px;
+  height: 70px;
+} */
