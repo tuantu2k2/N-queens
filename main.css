@@ -1,0 +1,16 @@
+#board1{
+    height: 500px !important;
+    margin: auto !important;
+}
+
+
+.highlight-white {
+  box-shadow: inset 0 0 3px 3px yellow;
+}
+.highlight-black {
+  box-shadow: inset 0 0 3px 3px blue;
+}
+
+/* .piece-417db{
+  
+} */

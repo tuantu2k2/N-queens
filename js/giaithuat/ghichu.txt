@@ -1,0 +1,8 @@
+dg cheo = 7-1 6-2 -5-3,   8-1 7-2 6-3
+
+
+//che do trinh chieu : tu dong, thu cong, toc do
+
+
+--linkma: https://www.saxonica.com/ce/demos/tour/tour.html
+hau: https://andrewjakubowicz.github.io/post/nqueens.html
